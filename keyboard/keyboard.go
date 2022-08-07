@@ -1,4 +1,4 @@
-//package that reads inut from user through keyboard
+//Package keyboard reads input from user through keyboard
 package keyboard
 
 import (
